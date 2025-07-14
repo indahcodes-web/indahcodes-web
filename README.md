@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Indah Suci ](img/github-header-image.png)
+![Indah Suci ](github-header-image%202.png)
 <!--
 **indahcodes-web/indahcodes-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I Like a Matcha Latte 
+
+
+##### Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
