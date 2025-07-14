@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Indah Suci ](img/github-header-image.png)
 <!--
 **indahcodes-web/indahcodes-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-🔭 I’m currently active student in Information Technology
+-🌱 I'm currently learning Html , Css, and JavaScript.
+
+
+- 📫 How to reach me: 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I Like a Matcha Latte 
